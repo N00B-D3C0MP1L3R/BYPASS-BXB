@@ -1,13 +1,13 @@
-# BYPASS-JAMAS
-Jamas New Update Bypass Done By TEAM-KRS
+# BYPASS-BXB
+BXB New Update Bypass Done By TEAM-KRS
 
 
 
-rm - rf JAMAS-BYPASS
+rm - rf BYPASS-BXB
 
-git clone https://github.com/TEAM-KRS/BYPASS-JAMAS.git
+git clone https://github.com/TEAM-KRS/BYPASS-BXB.git
 
-cd JAMAS-BYPASS
+cd BYPASS-BXB
 
-python Jamas-Public.py
+python BXB.py
 
